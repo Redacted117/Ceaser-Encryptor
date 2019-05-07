@@ -4,5 +4,7 @@ The user also has the option to decide how many rounds the shuffling will take p
 The GUI of the program was created using the Tkinter module, and the algorithm runs in Python 3.7.
 The user can also decrypt the encrypted line of words, given they have the original encrypted text and the key which was originally used to do the shuffling.
 
+Python 3.xx is required to edit the source code
+
 Created by Sampad Banerjee, if you use or modify the program, consider giving me credit by linking my GitHub.
 Thank you.
